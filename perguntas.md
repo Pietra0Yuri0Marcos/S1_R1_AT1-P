@@ -10,10 +10,10 @@ Funcionário: cargo e salário.
 Pessoa: nome e idade.
 
 # Exercícios de apropriação
-Classe: Cliente. <br>
-Objeto: $c1. <br>
-Atributos: nome, idade, peso e altura.<br>
-Métodos: cadastrar() e mostrarDados().
+Classe: É um modelo que define como os objetos serão criados.. <br>
+Objeto: É uma instância criada a partir de uma classe.. <br>
+Atributos: São as características ou informações de um objeto.<br>
+Métodos: São as ações ou funções que um objeto pode executar (cadastrar() e mostrarDados()).
 
 - O que é $this?
 
