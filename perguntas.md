@@ -1,7 +1,7 @@
 # Desafio profissional
 - Você criaria uma classe só ou mais de uma?
 
-Eu criaria mais de uma classe, pois clientes e funcionários têm características diferentes. Usaria uma classe Pessoa para os dados em comum e classes separadas para cliente e funcionário.
+Eu criaria mais de uma classe, pois clientes e funcionários têm características diferentes. Usaria uma classe pessoa para os dados em comum e classes separadas para cliente e funcionário.
 
 - Quais atributos seriam diferentes?
 
