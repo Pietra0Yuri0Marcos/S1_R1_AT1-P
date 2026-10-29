@@ -22,7 +22,7 @@ Métodos: cadastrar() e mostrarDados().
 # Exercícios de aplicação
 A classe Produto possui os atributos nome e preco e o método mostrarProduto(), que mostra os dados do produto.
 
-- Meus dois produtos:
+Meus dois produtos:
 
-Notebook: R$ 3.500,00.
-Mouse: R$ 79,90.
+- Notebook: R$ 3.500,00.
+- Mouse: R$ 79,90.
