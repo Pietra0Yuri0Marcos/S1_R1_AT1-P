@@ -10,9 +10,9 @@ Funcionário: cargo e salário.
 Pessoa: nome e idade.
 
 # Exercícios de apropriação
-Classe: Cliente.
-Objeto: $c1.
-Atributos: nome, idade, peso e altura.
+Classe: Cliente. <br>
+Objeto: $c1. <br>
+Atributos: nome, idade, peso e altura.<br>
 Métodos: cadastrar() e mostrarDados().
 
 - O que é $this?
