@@ -1,7 +1,7 @@
 # Desafio profissional
 - Você criaria uma classe só ou mais de uma?
 
-Eu criaria mais de uma classe, pois clientes e funcionários têm características diferentes. Usaria uma classe Pessoa para os dados em comum e classes separadas para cliente e funcionário.
+Eu criaria mais de uma classe, pois clientes e funcionários têm características diferentes. Usaria uma classe pessoa para os dados em comum e classes separadas para cliente e funcionário.
 
 - Quais atributos seriam diferentes?
 
@@ -10,10 +10,10 @@ Funcionário: cargo e salário.
 Pessoa: nome e idade.
 
 # Exercícios de apropriação
-Classe: Cliente.
-Objeto: $c1.
-Atributos: nome, idade, peso e altura.
-Métodos: cadastrar() e mostrarDados().
+Classe: É um modelo que define como os objetos serão criados.. <br>
+Objeto: É uma instância criada a partir de uma classe.. <br>
+Atributos: São as características ou informações de um objeto.<br>
+Métodos: São as ações ou funções que um objeto pode executar (cadastrar() e mostrarDados()).
 
 - O que é $this?
 
@@ -22,7 +22,7 @@ Métodos: cadastrar() e mostrarDados().
 # Exercícios de aplicação
 A classe Produto possui os atributos nome e preco e o método mostrarProduto(), que mostra os dados do produto.
 
-- Meus dois produtos:
+Meus dois produtos:
 
-Notebook: R$ 3.500,00.
-Mouse: R$ 79,90.
+- Notebook: R$ 3.500,00.
+- Mouse: R$ 79,90.
